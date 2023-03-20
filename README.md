@@ -7,4 +7,4 @@
 Hola bienvenido a mi repositorio, espero todo el contenido disponible aqui sea de ayuda en tu proyecto. 
 
 
-si deseas ayudarme a seguir innovado y creando nuevas herramientas click aqui https://www.patreon.com/ingenieriajhr
+si deseas ayudarme en este proceso de innovacion creando nuevas herramientas click aqui https://www.patreon.com/ingenieriajhr
