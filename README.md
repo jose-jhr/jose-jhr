@@ -1,6 +1,5 @@
-<p align = "center">
 ![imagenlenguajes](https://user-images.githubusercontent.com/66834393/226437170-6156b1ff-bd85-42ee-86ec-de50713df55f.png)
-</p>
+
 
 
 
